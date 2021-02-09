@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.unreal_RoomPuzzle.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Profesional\Unreal\1-arkde-gaming-course\unreal_RoomPuzzle\.idea\.idea.unreal_RoomPuzzle\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
